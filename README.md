@@ -23,5 +23,6 @@ Disk Cleaner — это инструмент для анализа и очист
 
 Запуск:
 1. Установите python 3.14
-2. Запустите через Visual Studio Code файл <DiskCleaner.py>
-3. В правом верхнем углу запускаем программу.
+2. В терминал введите pip install psutil pywin32
+3. Запустите через Visual Studio Code файл <DiskCleaner.py>
+4. В правом верхнем углу запускаем программу.
